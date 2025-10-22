@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dan Ndamukunda
 
-🎯 **Data Scientist | Digital Health & Health Informatics Professional | Software Engineering Enthusiast**
+🎯 **Digital Health & Health Informatics Professional | Data Scientist | Software Engineering Enthusiast**
 
 I transform health data into actionable insights that improve community well-being and inform evidence-based decision-making.  
 My work combines data engineering, analytics, dashboards, and system administration.
@@ -22,9 +22,10 @@ My work combines data engineering, analytics, dashboards, and system administrat
 ---
 
 ### 📂 Selected projects
-- **Maternal Health Risk Prediction** — ML model to classify risk (low/mid/high). [Repo link](https://github.com/YOUR_USERNAME/maternal-health-risk)  
-- **Health Data Quality Dashboard** — Power BI dashboard monitoring timeliness & completeness. [Repo link](https://github.com/YOUR_USERNAME/health-data-quality)  
-- **eCMS ETL Pipeline** — Automated cleaning and transformation for eCMS exports. [Repo link](https://github.com/YOUR_USERNAME/ecms-etl)
+- **Maternal Health Risk Prediction** — ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/Maternal_health_risk_prediction_app)
+- **Breast Cancer Risk prediction**  - ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/breast_cancer_prediction)
+- **Health Data Quality Dashboard** — Power BI dashboard monitoring timeliness & completeness. [Repo link](https://github.com/ndamukunda139/health-data-quality)  
+- **eCMS ETL Pipeline** — Automated cleaning and transformation for eCMS exports. [Repo link](https://github.com/ndamukunda139/ecms-etl)
 
 ---
 
