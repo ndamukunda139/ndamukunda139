@@ -15,7 +15,8 @@ My work combines data engineering, analytics, dashboards, and system administrat
 ---
 
 ### 🛠️ Tech stack
-- **Languages:** Python • SQL  
+- **Languages:** Python • SQL
+- **Frameworks:** Django • Django REST Framework
 - **Tools:** Pandas • scikit-learn • Power BI • Jupyter • Streamlit  
 - **DBs & Dev:** PostgreSQL • MySQL • Git • GitHub
 
