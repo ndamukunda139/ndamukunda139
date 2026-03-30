@@ -24,7 +24,7 @@ My work combines data engineering, analytics, dashboards, and system administrat
 
 ### 📂 Selected projects
 - **Maternal Health Tracker API:** Django API to collect and analyse Maternal Health Data. [Repo link](https://github.com/ndamukunda139/Maternal_health_tracker)
-- **Maternal Health Risk Prediction** — ML model to classify risk (low/mid/high). [Repo link] (https://github.com/ndamukunda139/Maternal_health_risk_prediction_app)
+- **Maternal Health Risk Prediction** — ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/Maternal_health_risk_prediction_app)
 - **Breast Cancer Risk prediction**  - ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/breast_cancer_prediction)
 - **Health Data Quality Dashboard** — Power BI dashboard monitoring timeliness & completeness. [Repo link](https://github.com/ndamukunda139/health-data-quality)  
 - **eCMS ETL Pipeline** — Automated cleaning and transformation for eCMS exports. [Repo link](https://github.com/ndamukunda139/ecms-etl)
