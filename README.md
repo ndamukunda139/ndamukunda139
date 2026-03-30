@@ -11,6 +11,7 @@ My work combines data engineering, analytics, dashboards, and system administrat
 - Building ETL pipelines and dashboards for digital health programs.
 - Improving data quality & governance for public health systems.
 - Experimenting with ML models for risk prediction in maternal & child health.
+- Build API apps which are FHIR Compliant
 
 ---
 
