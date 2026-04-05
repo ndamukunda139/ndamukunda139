@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Dan Ndamukunda
+# 👋 Hi, I’m Daniel Ndamukunda
 
 🎯 **Digital Health & Health Informatics Professional**
-💡 **Aspiring Data Engineer | Data Scientist | Backend Developer**
+💡 **Aspiring Backend Developer | Data Engineer | Data Scientist**
 
 I specialize in transforming health data into actionable insights that improve community health outcomes and support evidence-based decision-making.
 
