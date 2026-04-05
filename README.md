@@ -1,34 +1,42 @@
 # 👋 Hi, I’m Dan Ndamukunda
 
-🎯 **Digital Health & Health Informatics Professional | Data Scientist | Software Engineering Enthusiast**
+🎯 **Digital Health & Health Informatics Professional**
+💡 **Aspiring Data Engineer | Data Scientist | Backend Developer**
 
-I transform health data into actionable insights that improve community well-being and inform evidence-based decision-making.  
-My work combines data engineering, analytics, dashboards, and system administration.
+I specialize in transforming health data into actionable insights that improve community health outcomes and support evidence-based decision-making.
+
+My work sits at the intersection of:
+
+🏥 Healthcare Systems
+📊 Data Engineering & Analytics
+⚙️ Backend Development (APIs & Systems)
 
 ---
 
-### 🔭 What I’m working on
-- Building ETL pipelines and dashboards for digital health programs.
-- Improving data quality & governance for public health systems.
-- Experimenting with ML models for risk prediction in maternal & child health.
-- Build API apps which are FHIR Compliant
+### 🔭 What I’m Currently Working On
+- Building ETL pipelines for digital health programs
+- Developing data dashboards for monitoring public health indicators
+- Improving data quality, governance & interoperability (FHIR)
+- Experimenting with machine learning models for maternal & child health risk prediction
+- Developing FHIR-compliant APIs using Django REST Framework
 
 ---
 
 ### 🛠️ Tech stack
 - **Languages:** Python • SQL
 - **Frameworks:** Django • Django REST Framework
-- **Tools:** Pandas • scikit-learn • Power BI • Jupyter • Streamlit  
+- **Data & ML:** Pandas • scikit-learn • Jupyter
+- **Visualization:** Power BI • Streamlit  
 - **DBs & Dev:** PostgreSQL • MySQL • Git • GitHub
 
 ---
 
 ### 📂 Selected projects
-- **Maternal Health Tracker API:** Django API to collect and analyse Maternal Health Data. [Repo link](https://github.com/ndamukunda139/Maternal_health_tracker)
-- **Maternal Health Risk Prediction** — ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/Maternal_health_risk_prediction_app)
-- **Breast Cancer Risk prediction**  - ML model to classify risk (low/mid/high). [Repo link](https://github.com/ndamukunda139/breast_cancer_prediction)
-- **Health Data Quality Dashboard** — Power BI dashboard monitoring timeliness & completeness. [Repo link](https://github.com/ndamukunda139/health-data-quality)  
-- **eCMS ETL Pipeline** — Automated cleaning and transformation for eCMS exports. [Repo link](https://github.com/ndamukunda139/ecms-etl)
+- **Maternal Health Tracker API:** Django REST API for collecting and managing maternal health data, supporting real-time tracking and analysis. [Repo link](https://github.com/ndamukunda139/Maternal_health_tracker)
+- **Maternal Health Risk Prediction** — Machine learning model to classify maternal risk levels (low / medium / high) to support early intervention. [Repo link](https://github.com/ndamukunda139/Maternal_health_risk_prediction_app)
+- **Breast Cancer Risk prediction**  - Predictive model for classifying breast cancer risk using healthcare datasets. [Repo link](https://github.com/ndamukunda139/breast_cancer_prediction)
+- **Health Data Quality Dashboard** — Power BI dashboard tracking data completeness, timeliness, and consistency in health systems. [Repo link](https://github.com/ndamukunda139/health-data-quality)  
+- **eCMS ETL Pipeline** — Automated pipeline for cleaning, transforming, and preparing eCMS export data for analysis and reporting. [Repo link](https://github.com/ndamukunda139/ecms-etl)
 
 ---
 
