@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Daniel Ndamukunda
 
-🎯 **Digital Health & Health Informatics Professional**
+🎯 **Software Engineer & Health Informatics Professional**
 💡 **Aspiring Backend Developer | Data Engineer | Data Scientist**
 
-I specialize in transforming health data into actionable insights that improve community health outcomes and support evidence-based decision-making.
+I specialize in Building digital health systems and transforming health data into actionable insights that improve community health outcomes and support evidence-based decision-making.
 
 My work sits at the intersection of:
 
 🏥 Healthcare Systems
 📊 Data Engineering & Analytics
-⚙️ Backend Development (APIs & Systems)
+⚙️ Sofware Development (APIs & Systems)
 
 ---
 
@@ -18,7 +18,7 @@ My work sits at the intersection of:
 - Developing data dashboards for monitoring public health indicators
 - Improving data quality, governance & interoperability (FHIR)
 - Experimenting with machine learning models for maternal & child health risk prediction
-- Developing FHIR-compliant APIs using Django REST Framework
+- Developing FHIR-compliant Digital systems
 
 ---
 
@@ -28,6 +28,8 @@ My work sits at the intersection of:
 - **Data & ML:** Pandas • scikit-learn • Jupyter
 - **Visualization:** Power BI • Streamlit  
 - **DBs & Dev:** PostgreSQL • MySQL • Git • GitHub
+- **Big data tools:** Apache Kafka • Apache Airflow • Apache Spark • MinIO
+- **Cloud Storage:** AWS S3 • Amazon RedShift
 
 ---
 
