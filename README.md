@@ -23,10 +23,10 @@ My work sits at the intersection of:
 ---
 
 ### 🛠️ Tech stack
-- **Languages:** • Python • SQL
-- **Frameworks:** • Django • Django REST Framework
-- **Data & ML:** • Pandas • scikit-learn • mathplotlib • numpy • seabon
-- **Visualization:** • Power BI • Streamlit  
+- **Languages:** Python • SQL
+- **Frameworks:** Django • Django REST Framework
+- **Data & ML:** Pandas • scikit-learn • mathplotlib • numpy • seabon
+- **Visualization:** Power BI • Streamlit  
 - **DBs & Dev:** PostgreSQL • MySQL • Git • GitHub
 - **Big data tools:** Apache Kafka • Apache Airflow • Apache Spark • MinIO
 - **Cloud Storage:** AWS S3 • Amazon RedShift • Delta lake
