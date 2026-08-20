@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daniel Ndamukunda
+# I’m Daniel Ndamukunda
 
 🎯 **Software Engineer & Health Informatics Professional**
 💡 **Aspiring Backend Developer | Data Engineer | Data Scientist**
@@ -9,12 +9,12 @@ My work sits at the intersection of:
 
 🏥 Healthcare Systems
 📊 Data Engineering & Analytics
-⚙️ Sofware Development (APIs & Systems)
+⚙️ Software Development (APIs & Systems)
 
 ---
 
 ### 🔭 What I’m Currently Working On
-- Building ETL pipelines for digital health programs
+- Building scalable and secure ETL/ELT pipelines for digital health programs
 - Developing data dashboards for monitoring public health indicators
 - Improving data quality, governance & interoperability (FHIR)
 - Experimenting with machine learning models for maternal & child health risk prediction
@@ -23,13 +23,13 @@ My work sits at the intersection of:
 ---
 
 ### 🛠️ Tech stack
-- **Languages:** Python • SQL
-- **Frameworks:** Django • Django REST Framework
-- **Data & ML:** Pandas • scikit-learn • Jupyter
-- **Visualization:** Power BI • Streamlit  
+- **Languages:** • Python • SQL
+- **Frameworks:** • Django • Django REST Framework
+- **Data & ML:** • Pandas • scikit-learn • mathplotlib • numpy • seabon
+- **Visualization:** • Power BI • Streamlit  
 - **DBs & Dev:** PostgreSQL • MySQL • Git • GitHub
 - **Big data tools:** Apache Kafka • Apache Airflow • Apache Spark • MinIO
-- **Cloud Storage:** AWS S3 • Amazon RedShift
+- **Cloud Storage:** AWS S3 • Amazon RedShift • Delta lake
 
 ---
 
